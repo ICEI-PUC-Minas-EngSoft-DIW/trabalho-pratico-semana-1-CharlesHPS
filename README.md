@@ -2,16 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Charles Henrique de Paula Santos
+Matricula: 901364
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Imagem de captura do navegador](images/captura%20navegador.PNG)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Imagem pagina criada pelo replit](images/pagina%20criada%20no%20replit.PNG)
 
 
 ## Orientações sobre Linguagem MarkDown
